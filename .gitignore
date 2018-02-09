@@ -1,0 +1,29 @@
+
+
+
+# OSX
+.DS_Store
+
+# GRADLE
+.gradle
+/local.properties
+
+# BUILD
+/build
+
+.externalNativeBuild
+
+## crashlytics
+# crashlytics-build.properties
+# com_crashlytics_export_strings.xml
+
+# Android Studio
+*.iml
+*.iws
+*.ipr
+/.idea
+manifest-merger-production-release-report.txt
+/captures
+
+#ANDROID
+*.apk
